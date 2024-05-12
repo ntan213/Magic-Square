@@ -1,5 +1,5 @@
-// C++ Program to print Magic square 
-// of Doubly even order 
+// By group 11
+
 #include<stdio.h> 
 #include<string.h>
 // Function for calculating Magic square 
